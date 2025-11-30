@@ -2,6 +2,8 @@
 
 Small script that let's you use any steam vr controller input and translate that into an api call to Openshock for a "preditermined result"
 
+30.11 Added a simple ui for real time control with threading so main windows doesn't freeze.
+
 Use responsibly
 
 Instructions:
